@@ -1,4 +1,4 @@
-```markdown
+
 # 环境配置与模型下载指南
 
 Linux 环境（ NVIDIA GeForce RTX 4090 D）下搭建 RAG 基础运行环境及通过国内镜像稳定下载模型的标准流程。
@@ -14,7 +14,7 @@ conda create -n rag python=3.10 -y
 conda activate rag
 
 ```
----
+
 
 ---
 
